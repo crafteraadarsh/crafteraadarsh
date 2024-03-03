@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&duration=4000&pause=1000&color=8DF746FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%2C+%F0%9F%91%8B;I'm+Aadarsh+Singh!" />
 
 
-## I'm a passionate **Web3** Learner!!
+# _I'm a passionate **Web3** Learner!!_
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=crafteraadarsh&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1116&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/></a>
 - 🌱 I’m currently a Student at **GGSIPU** 🤣
 - 🥅 Pursuing my Degree in **B.Tech-IT**
