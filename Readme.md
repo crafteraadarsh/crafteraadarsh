@@ -12,7 +12,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="aadarsh.singh070@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Aadarsh Singh" height="30" width="75" /></a>
+<a href="mailto:aadarsh.singh070@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Aadarsh Singh" height="30" width="75" /></a>
 <a href="https://www.linkedin.com/in/aadarsh-singh-1b0716250" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aadarsh Singh" height="30" width="75" /></a>
 <a href="https://instagram.com/_singh_aadarsh"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Aadarsh Singh" height="30" width="75" /></a>
 <p/>
