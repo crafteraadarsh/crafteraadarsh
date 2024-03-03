@@ -1,3 +1,4 @@
+![logo](https://github.com/crafteraadarsh/crafteraadarsh/blob/main/banner.png)
 <a href="https://github.com/crafteraadarsh/github-readme-stats"><img align="right" alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crafteraadarsh&langs_count=8&count_private=true&layout=compact&theme=dracula&border=5493F7&bg_color=282a36" /></a>
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=eb1f6a&lines=Hi+There!👋🏻+;+I'm+Aadarsh+Singh!;" />
