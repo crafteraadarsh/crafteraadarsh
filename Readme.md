@@ -1,6 +1,6 @@
 <a href="https://github.com/crafteraadarsh/github-readme-stats"><img align="right" alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crafteraadarsh&langs_count=8&count_private=true&layout=compact&theme=dracula&border=5493F7&bg_color=0D1117" /></a>
 <h1 align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&duration=4000&pause=1000&color=8DF746FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%2C+%F0%9F%91%8B;I'm+Aadarsh+Singh!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=800&size=35&duration=4000&pause=1000&color=eb1f6a&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There%2C+%F0%9F%91%8B;I'm+Aadarsh+Singh!" />
 
 
 # _I'm a passionate **Web3** Learner!!_
