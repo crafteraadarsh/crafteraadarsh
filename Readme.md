@@ -5,7 +5,7 @@
 
 # _I'm a passionate **Web3** Learner!!_
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=crafteraadarsh&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&background=282a36&fire=2945AE&border=5493F7&ring=5493F7&currStreakLabel=5493F7" width=425px alt="GitHub stats"/></a>
-- 🌱 I’m currently a Student at **GGSIPU** 🤣
+- 🌱 I’m currently a Student at **GGSIPU** 
 - 🥅 Pursuing my Degree in **B.Tech-IT**
 - ⚡ Fun fact: Everything try to Teach you something.
 
